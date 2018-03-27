@@ -1,1 +1,3 @@
 exercise for intern.
+syntax: num_to_ip(ip)
+syntax: ip_to_num(ip_num)
